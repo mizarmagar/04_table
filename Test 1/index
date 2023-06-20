@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Website about 
+Nepal">
+<meta name="keywords" content="Nepal, Kathmandu, 
+Mountains">
+<meta name="author" content="XYZ">
+<meta name="viewport" content="width=devicewidth, initial-scale=1.0">
+
+<title>Page Title</title>
+</head>
+<body>
+<table border ="1px" bgcolor ="#FEB45" width="600px" cellpading ="10px" cellspacing="10px">
+<th scope="col"> STUDENT ID </th>
+<th scope="col"> STUDENT NAME </th>
+<th scope="col"> EMAIL ADDRESS </th>
+<th scope="col"> CONCENTRATION </th>
+<th scope="col"> PROFILE PICTURE </th>
+</tr>
+<tr>
+<td> 1223 </td>
+<td> john </td>
+<td> <a href="mail to john@gmail.com"> john@gmail.com </td>
+<td> Web System Development </td>
+<td> <img src="https://www.w3schools.com/howto/img_avatar.png" width ="100px"> </td>
+</tr>
+<tr>
+<td> 456 </td>
+<td> Tom </td>
+<td> Tom@gmail.com </td>
+<td> Networking </td>
+<td> <img src="https://www.w3schools.com/howto/img_avatar.png" width ="100px"> </td>
+</tr>
+<tr>
+<table border="1px" bgcolor="#9ACD32" >
+<tr>
+<th>Schedule</th>
+<th>9am</th>
+<th>10am</th>
+<th>11am</th>
+<th>12am</th>
+<tr>
+<tr>
+<th>Monday</th>
+<td>English</td>
+<td>Math</td>
+<td>Art</td>
+<td>Humanities</td>
+</tr>
+<tr>
+<th>Tuesday</th>
+<td>Technology</td>
+<td>Technology</td>
+<td>Technology</td>
+<td>Technology</td>
+<td> 
+</tr>
+
+<tr>
+<table border="1px" bgcolor="#9ACD32" >
+<tr>
+<th>Schedule</th>
+<th>9am</th>
+<th>10am</th>
+<th>11am</th>
+<th>12am</th>
+<tr>
+<tr>
+<th>Monday</th>
+<td colspan="2">English</td>
+<td>Math</td>
+<td rowspan=2>Art</td>
+
+</tr>
+<tr>
+<th>Tuesday</th>
+<td colspan="3">Technology</td>
+
+<td> 
+</tr>
+
+</table>
+
+</tr>
+</table>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rzHK_QCFX-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52270.00153115007!2d135.70881128311157!3d35.0348545093901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108501df83d5d%3A0x1083cd3a6a0dd0cb!2sMototanaka%20Station!5e0!3m2!1sen!2sjp!4v1687239806895!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
